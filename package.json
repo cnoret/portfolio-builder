@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "Christophe Noret",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://cnoretgithub.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
